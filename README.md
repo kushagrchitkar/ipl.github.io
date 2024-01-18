@@ -2,6 +2,10 @@
 
 This repository serves as an alternate version of the official course project website (pitch-perfect.github.io). Due to restrictions on changes past the submission deadline for the official project, I have taken on the role of the sole maintainer for this alternate repository. Here, updates and optimizations will be applied regularly to enhance the overall user experience.
 
+## Link to Website
+
+https://kushagrchitkar.github.io/ipl.github.io/
+
 ## Optimizations 
 
 1. **Video Compression:**
