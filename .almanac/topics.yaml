@@ -1,0 +1,10 @@
+frontend:
+  summary: Static browser application structure, visual styling, client libraries, and interaction constraints.
+data-visualization:
+  summary: D3 visualization modules and the narrative flows they support.
+data-model:
+  summary: Local IPL datasets, derived records, and chart-facing data contracts.
+project-memory:
+  summary: Navigation and high-level project orientation for future agents.
+performance:
+  summary: Media size, page-load, and device-compatibility constraints that shape maintenance.
